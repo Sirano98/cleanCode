@@ -133,7 +133,7 @@ button {
 .main__input-edit {
     display: none;
 }
-.list__item-edit .main__input-text {
+.list__item-edit .main__input-edit {
     display: inline-block;
     width: 224px;
 }
